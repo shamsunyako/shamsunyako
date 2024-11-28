@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shamsu Ibrahim
-- 👀 I’m interested in electrcic metering 
+- 👀 I’m interested in electric metering 
 - 🌱 I’m currently learning programming as a beginner
 - 💞️ I’m looking to collaborate with who can teach me VS code step by step
 - 📫 How to reach me shamsunyako@gmail.com
